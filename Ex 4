@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+ <head>
+	 <title>Ex 4</title>
+     <meta charset="utf-8">
+ </head>
+ <body dir="rtl">
+	 <table border="1" align="center" style="font-family: Yekan; width: 40%;" cellpadding="20">
+		 <caption> وضعیت پرداخت های شما </caption>
+		 <tr>
+		    <th bgcolor="#ccc"> شماره پرداخت </th>
+		    <th bgcolor="#ccc"> نام محصول </th>
+		    <th bgcolor="#ccc"> وضعیت پرداخت </th>
+		 </tr>
+		 <tr>
+			 <td bgcolor="#000000" style="color: #FAFAFA"> 14000221 </td>
+			 <td bgcolor="#0201E8" style="color: #FAFAFA"> کانادا با من </td>
+			 <td bgcolor="#3AFA00"> پرداخت موفق </td>
+		 </tr>
+		 <tr>
+			 <td bgcolor="#000000" style="color: #FAFAFA"> 14010116 </td>
+			 <td bgcolor="#0201E8" style="color: #FAFAFA"> آلمان با من </td>
+			 <td bgcolor="#D6F205"> در حال پرداخت </td>
+		 </tr>
+		  <tr>
+			 <td bgcolor="#000000" style="color: #FAFAFA" > 14010215 </td>
+			 <td bgcolor="#0201E8" style="color: #FAFAFA"> انگلیس با من </td>
+			 <td bgcolor="#F5070B"> پرداخت نا موفق </td>
+		 </tr>
+	 </table>
+ </body>
+</html>
